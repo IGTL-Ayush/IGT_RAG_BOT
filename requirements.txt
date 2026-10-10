@@ -1,0 +1,3 @@
+docling
+langchain-text-splitters
+boto3
